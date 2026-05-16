@@ -135,16 +135,6 @@ Mission:
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vatsalpandey100/vatsalpandey100/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
