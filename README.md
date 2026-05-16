@@ -1,201 +1,299 @@
-<!-- ========================================================= -->
-<!--                    ⚡ VATSAL PANDEY ⚡                    -->
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ██╗   ██╗ █████╗ ████████╗███████╗ █████╗ ██╗     ██████╗               -->
+<!-- ██║   ██║██╔══██╗╚══██╔══╝██╔════╝██╔══██╗██║     ██╔══██╗              -->
+<!-- ██║   ██║███████║   ██║   ███████╗███████║██║     ██████╔╝              -->
+<!-- ╚██╗ ██╔╝██╔══██║   ██║   ╚════██║██╔══██║██║     ██╔═══╝               -->
+<!--  ╚████╔╝ ██║  ██║   ██║   ███████║██║  ██║███████╗██║                   -->
+<!--   ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝   PANDEY        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+<!-- HEADER WAVE BANNER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e3a8a,100:3b82f6&text=0xVatsal&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a0f2c,80:001f6b,100:0047ff&height=220&section=header&text=Vatsal%20Pandey&fontSize=58&fontColor=e8f0ff&fontAlignY=40&fontAlign=50&desc=0xVatsal%20%7C%20Engineering%20%26%20Automation%20%F0%9F%9A%80&descAlignY=62&descSize=19&descAlign=50&animation=fadeIn&stroke=0047ff&strokeWidth=1" width="100%"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Vatsal Pandey</h1>
-
-<h3 align="center">
-Engineering • Automation • AI • Aerospace Aspirant 🚀
-</h3>
-
+<!-- TYPING ANIMATION -->
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Architecting+with+AI.+Executing+with+discipline.;JEE+2027+Aspirant+🚀;Future+Aerospace+Engineer+✈️;Building+Automation+Systems+⚡;Python+%7C+Node.js+%7C+AI+Systems;Dreaming+Beyond+The+Atmosphere+🌌"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=4D9FFF&center=true&vCenter=true&width=720&lines=Architecting+with+AI.+Executing+with+discipline.+%E2%9C%A6;JEE+Advanced+2027+%7C+Targeting+IIT+%2F+IIST+Aerospace;Building+Automation+Systems+%7C+AI-Assisted+Engineering;Node.js+%E2%80%A2+Python+%E2%80%A2+Puppeteer+%E2%80%A2+SQL+%E2%80%A2+Git;Future+Aerospace+Engineer+%7C+0xVatsal+%F0%9F%9B%B8" alt="Typing SVG"/>
 </div>
 
----
+<br/>
 
-# 🌌 About Me
+<!-- VISITOR + FOLLOWER BADGES -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vatsalpandey100&style=for-the-badge&color=0047ff&labelColor=0d1117&label=MISSION+CONTROL+VIEWS" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/vatsalpandey100?tab=followers">
+    <img src="https://img.shields.io/github/followers/vatsalpandey100?style=for-the-badge&color=0047ff&labelColor=0d1117&label=CREW+MEMBERS" alt="Followers"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/vatsalpandey100?tab=stars">
+    <img src="https://img.shields.io/github/stars/vatsalpandey100?style=for-the-badge&color=0047ff&labelColor=0d1117&label=STARS+EARNED" alt="Stars"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- THIN DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="55%" valign="top">
+
+<h2>⚡ <code>whoami</code></h2>
 
 ```yaml
-Name: Vatsal Pandey
-Alias: VP / 0xVatsal
-Location: India 🇮🇳
+profile:
+  name:    "Vatsal Pandey"
+  alias:   "VP  /  0xVatsal"
+  class:   "Class 12 Student"
+  target:  "JEE Advanced 2027 Aspirant"
+  vibe:    "Discipline × AI × Aerospace"
 
-Current Status:
-  - Class 12 Student
-  - JEE Advanced 2027 Aspirant
-  - Informatics Practices Student
+domains:
+  - "AI-Assisted Architecture"
+  - "Aerospace Engineering"
+  - "Web Automation Systems"
+  - "Scalable Productivity Systems"
+  - "Informatics Practices"
 
-Focus Areas:
-  - AI-Assisted Architecture
-  - Web Automation
-  - Aerospace Engineering
-  - Productivity Systems
-
-Tech Interests:
-  - Automation Systems
-  - Scalable Workflows
-  - AI Integration
-  - Future Tech
-
-Mission:
-  Crack JEE Advanced 2027 and secure
-  an Aerospace Engineering seat at IIT or IIST.
+goal: "IIT / IIST → Aerospace Engineering"
+motto: "Architecting with AI. Executing with discipline."
+status: "Online · Building · Always learning 🚀"
 ```
 
----
+</td>
+<td width="45%" valign="top" align="center">
 
-# ⚡ Tech Stack
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=vatsalpandey100&show_icons=true&theme=transparent&bg_color=0d1117&border_color=0047ff&icon_color=4D9FFF&title_color=4D9FFF&text_color=c9d1e8&ring_color=0047ff&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=vatsalpandey100&theme=dark&hide_border=false&border=0047FF&background=0D1117&ring=4D9FFF&fire=0066FF&currStreakLabel=4D9FFF&sideLabels=4D9FFF&dates=6e8cad&stroke=0047FF" width="100%" alt="Streak Stats"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════ CURRENT MISSION ═══════════════════════ -->
+
+<h2 align="center">🛸 Current Mission Parameters</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,git,github,mysql,vscode,linux&perline=4"/>
+| Priority | Mission | Status |
+|:---:|:---|:---:|
+| `[P0]` | 🧮 JEE Advanced 2027 — Full Preparation Mode | 🔴 Active |
+| `[P1]` | 🤖 Building Advanced Automation Systems | 🟡 In Progress |
+| `[P2]` | 🧠 AI Workflows + System Architecture | 🟡 In Progress |
+| `[P3]` | 💻 Programming — Python & JavaScript Mastery | 🟢 Ongoing |
+| `[P4]` | 🚀 Aerospace Engineering Research & Concepts | 🟢 Ongoing |
 
 </div>
 
----
+<br/>
 
-# 🧠 Current Engineering Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════ TECH ARSENAL ═══════════════════════ -->
+
+<h2 align="center">🧰 Engineering Arsenal</h2>
+
+<!-- TECH ICONS ROW -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,git,github,mysql,vscode,bash&theme=dark&perline=10" alt="Tech Stack Icons"/>
+</div>
+
+<br/>
+
+<!-- ENGINEERING STACK TABLE -->
+<div align="center">
+
+| Domain | Technology | Proficiency |
+|:---|:---|:---:|
+| **Runtime** | Node.js | ██████████ |
+| **Scripting** | Python | █████████░ |
+| **Language** | JavaScript (ES2024) | ████████░░ |
+| **Automation** | Puppeteer | ████████░░ |
+| **Database** | SQL | ███████░░░ |
+| **Version Control** | Git & GitHub | █████████░ |
+| **Environment** | macOS · Bash · Terminal | ████████░░ |
+| **AI Tooling** | Prompt Engineering · AI Workflows | ███████░░░ |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalpandey100&theme=transparent&bg_color=0d1117&border_color=0047ff&title_color=4D9FFF&text_color=c9d1e8&layout=compact&hide_border=false&langs_count=8&card_width=450" alt="Top Languages" width="48%"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vatsalpandey100&theme=transparent&bg_color=0d1117&border_color=0047ff&title_color=4D9FFF&text_color=c9d1e8&hide_border=false" alt="WakaTime Stats" width="48%"/>
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalpandey100&theme=react-dark&bg_color=0d1117&color=4D9FFF&line=0047ff&point=4D9FFF&area=true&area_color=001a66&hide_border=false&border_color=0047ff&custom_title=Vatsal's%20Contribution%20Trajectory" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+
+<h2 align="center">🏆 Achievement Unlocked</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vatsalpandey100&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+
+<h2 align="center">🐍 Contribution Orbit</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vatsalpandey100/vatsalpandey100/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vatsalpandey100/vatsalpandey100/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/vatsalpandey100/vatsalpandey100/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+<!-- To enable snake: Add .github/workflows/snake.yml using Platane/snk@v3, output branch: output -->
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════ VISION & TRAJECTORY ═══════════════════════ -->
+
+<h2 align="center">🛰️ Flight Plan — Vision 2027+</h2>
 
 <div align="center">
 
-| Domain | Technologies |
-|---|---|
-| ⚡ Automation | Puppeteer, Node.js |
-| 🤖 AI Systems | AI-Assisted Architecture |
-| 🐍 Programming | Python, JavaScript |
-| 🗄️ Database | SQL (IP) |
-| 💻 Environment | macOS |
-| 🔧 Tools | Git & GitHub |
-
-</div>
-
----
-
-# 🚀 Current Focus
-
-```txt
-⚡ Preparing for JEE Advanced 2027
-⚡ Building automation systems
-⚡ Learning scalable architecture
-⚡ Improving coding discipline
-⚡ Exploring AI + engineering workflows
-⚡ Becoming future-ready
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                      MISSION TRAJECTORY                         ║
+╠══════════════════════════════════════════════════════════════════╣
+║  PHASE 01  ▸  2025–26  ▸  JEE Preparation + Automation Build   ║
+║  PHASE 02  ▸  2027     ▸  Crack JEE Advanced → IIT / IIST      ║
+║  PHASE 03  ▸  2027+    ▸  B.Tech Aerospace Engineering          ║
+║  PHASE 04  ▸  2031+    ▸  AI-Driven Aerospace Systems R&D       ║
+║  PHASE 05  ▸  Beyond   ▸  Engineer the Future 🚀               ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
----
-
-# 📊 GitHub Analytics
+</div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vatsalpandey100&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalpandey100&theme=tokyonight&hide_border=true&border_radius=20"/>
+| 🎯 Goal | 📅 Timeline | 🔥 Status |
+|:---|:---:|:---:|
+| Crack JEE Advanced 2027 | 2027 | `LOCKED IN` |
+| IIT / IIST — Aerospace Engineering | 2027 | `TARGETING` |
+| Build Advanced Automation Frameworks | 2025-26 | `BUILDING` |
+| Master AI-Assisted Engineering Workflows | Ongoing | `LEARNING` |
+| Open Source Contributions | Ongoing | `INITIATED` |
 
 </div>
 
----
+<br/>
 
-# 📈 Most Used Languages
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════ MOTTO ═══════════════════════ -->
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Architecting%20with%20AI.%20Executing%20with%20discipline.&author=0xVatsal" alt="Motto" width="80%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalpandey100&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</div>
-
----
-
-# 🔥 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalpandey100&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vatsalpandey100&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/vatsalpandey100">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/vatsalpandey100">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://x.com/vatsalpandey100">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/vatsalpandey100/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://discord.com/users/vatsalpandey100">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# 👀 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vatsalpandey100&label=PROFILE+VIEWS&color=3b82f6&style=for-the-badge"/>
-
-</div>
-
----
-
-# 💭 Motto
-
-<div align="center">
-
-### *"Architecting with AI. Executing with discipline."*
-
-</div>
-
----
-
-# 🌌 Vision
-
-```txt
-From solving JEE problems
-to solving engineering problems for humanity.
-
-Aiming beyond limits. 🚀
+```
+  ┌─────────────────────────────────────────────────────────────┐
+  │                                                             │
+  │   "Architecting with AI. Executing with discipline."        │
+  │                                                             │
+  │        — 0xVatsal  ·  VP  ·  Future Aerospace Engineer     │
+  │                                                             │
+  └─────────────────────────────────────────────────────────────┘
 ```
 
----
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+<h2 align="center">📡 Open Comms — Connect With Me</h2>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,50:1e3a8a,100:3b82f6"/>
+  <a href="https://github.com/vatsalpandey100">
+    <img src="https://img.shields.io/badge/GitHub-vatsalpandey100-0d1117?style=for-the-badge&logo=github&logoColor=white&color=0047ff&labelColor=0d1117" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vatsalpandey100">
+    <img src="https://img.shields.io/badge/LinkedIn-vatsalpandey100-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0047ff&labelColor=0d1117" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/vatsalpandey100">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-vatsalpandey100-0d1117?style=for-the-badge&logo=x&logoColor=white&color=0047ff&labelColor=0d1117" alt="Twitter/X"/>
+  </a>
+
+<br/><br/>
+
+  <a href="https://www.instagram.com/vatsalpandey100/">
+    <img src="https://img.shields.io/badge/Instagram-vatsalpandey100-0d1117?style=for-the-badge&logo=instagram&logoColor=white&color=0047ff&labelColor=0d1117" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/vatsalpandey100">
+    <img src="https://img.shields.io/badge/Discord-vatsalpandey100-0d1117?style=for-the-badge&logo=discord&logoColor=white&color=0047ff&labelColor=0d1117" alt="Discord"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=white&color=0047ff&labelColor=0d1117" alt="Portfolio"/>
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047ff,50:001f6b,80:0a0f2c,100:0d1117&height=140&section=footer&text=Engineering%20the%20Future%2C%20One%20Commit%20at%20a%20Time%20%F0%9F%9A%80&fontSize=16&fontColor=6e9fff&fontAlignY=55&fontAlign=50&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <sub>
+    ⚡ Built with discipline · Powered by curiosity · Aimed at the stars &nbsp;|&nbsp;
+    <code>0xVatsal</code> &nbsp;·&nbsp;
+    <a href="https://github.com/vatsalpandey100">@vatsalpandey100</a>
+  </sub>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  END OF README — 0xVatsal | vatsalpandey100 | VP      -->
+<!-- ═══════════════════════════════════════════════════════ -->
