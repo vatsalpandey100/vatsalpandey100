@@ -9,32 +9,32 @@
 
 <!-- HEADER WAVE BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a0f2c,80:001f6b,100:0047ff&height=220&section=header&text=Vatsal%20Pandey&fontSize=58&fontColor=e8f0ff&fontAlignY=40&fontAlign=50&desc=0xVatsal%20%7C%20Engineering%20%26%20Automation%20%F0%9F%9A%80&descAlignY=62&descSize=19&descAlign=50&animation=fadeIn&stroke=0047ff&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:0a0f2c,80:001f6b,100:0047ff&amp;height=230&amp;section=header&amp;text=Vatsal%20Pandey&amp;fontSize=46&amp;fontColor=e8f0ff&amp;fontAlignY=42&amp;fontAlign=50&amp;desc=0xVatsal%20%7C%20Engineering%20%26%20Automation%20%F0%9F%9A%80&amp;descAlignY=62&amp;descSize=18&amp;descAlign=50&amp;animation=fadeIn&amp;stroke=0047ff&amp;strokeWidth=1" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=4D9FFF&center=true&vCenter=true&width=720&lines=Architecting+with+AI.+Executing+with+discipline.+%E2%9C%A6;JEE+Advanced+2027+%7C+Targeting+IIT+%2F+IIST+Aerospace;Building+Automation+Systems+%7C+AI-Assisted+Engineering;Node.js+%E2%80%A2+Python+%E2%80%A2+Puppeteer+%E2%80%A2+SQL+%E2%80%A2+Git;Future+Aerospace+Engineer+%7C+0xVatsal+%F0%9F%9B%B8" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;duration=2800&amp;pause=1200&amp;color=4D9FFF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Architecting+with+AI.+Executing+with+discipline.+%E2%9C%A6;JEE+Advanced+2027+%7C+Targeting+IIT+%2F+IIST+Aerospace;Building+Automation+Systems+%7C+AI-Assisted+Engineering;Node.js+%E2%80%A2+Python+%E2%80%A2+Puppeteer+%E2%80%A2+SQL+%E2%80%A2+Git;Future+Aerospace+Engineer+%7C+0xVatsal+%F0%9F%9B%B8" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <!-- VISITOR + FOLLOWER BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vatsalpandey100&style=for-the-badge&color=0047ff&labelColor=0d1117&label=MISSION+CONTROL+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vatsalpandey100&amp;style=for-the-badge&amp;color=0047ff&amp;labelColor=0d1117&amp;label=MISSION+CONTROL+VIEWS" alt="Profile Views"/>
   &nbsp;&nbsp;
   <a href="https://github.com/vatsalpandey100?tab=followers">
-    <img src="https://img.shields.io/github/followers/vatsalpandey100?style=for-the-badge&color=0047ff&labelColor=0d1117&label=CREW+MEMBERS" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/vatsalpandey100?style=for-the-badge&amp;color=0047ff&amp;labelColor=0d1117&amp;label=CREW+MEMBERS" alt="Followers"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/vatsalpandey100?tab=stars">
-    <img src="https://img.shields.io/github/stars/vatsalpandey100?style=for-the-badge&color=0047ff&labelColor=0d1117&label=STARS+EARNED" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/vatsalpandey100?style=for-the-badge&amp;color=0047ff&amp;labelColor=0d1117&amp;label=STARS+EARNED" alt="Stars"/>
   </a>
 </div>
 
 <br/>
 
-<!-- THIN DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
@@ -60,8 +60,8 @@ domains:
   - "Scalable Productivity Systems"
   - "Informatics Practices"
 
-goal: "IIT / IIST → Aerospace Engineering"
-motto: "Architecting with AI. Executing with discipline."
+goal:   "IIT / IIST → Aerospace Engineering"
+motto:  "Architecting with AI. Executing with discipline."
 status: "Online · Building · Always learning 🚀"
 ```
 
@@ -70,11 +70,11 @@ status: "Online · Building · Always learning 🚀"
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vatsalpandey100&show_icons=true&theme=transparent&bg_color=0d1117&border_color=0047ff&icon_color=4D9FFF&title_color=4D9FFF&text_color=c9d1e8&ring_color=0047ff&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vatsalpandey100&amp;show_icons=true&amp;theme=transparent&amp;bg_color=0d1117&amp;border_color=0047ff&amp;icon_color=4D9FFF&amp;title_color=4D9FFF&amp;text_color=c9d1e8&amp;ring_color=0047ff&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" width="100%" alt="GitHub Stats"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=vatsalpandey100&theme=dark&hide_border=false&border=0047FF&background=0D1117&ring=4D9FFF&fire=0066FF&currStreakLabel=4D9FFF&sideLabels=4D9FFF&dates=6e8cad&stroke=0047FF" width="100%" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=vatsalpandey100&amp;theme=dark&amp;hide_border=false&amp;border=0047FF&amp;background=0D1117&amp;ring=4D9FFF&amp;fire=0066FF&amp;currStreakLabel=4D9FFF&amp;sideLabels=4D9FFF&amp;dates=6e8cad&amp;stroke=0047FF" width="100%" alt="Streak Stats"/>
 
 </td>
 </tr>
@@ -106,14 +106,12 @@ status: "Online · Building · Always learning 🚀"
 
 <h2 align="center">🧰 Engineering Arsenal</h2>
 
-<!-- TECH ICONS ROW -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,git,github,mysql,vscode,bash&theme=dark&perline=10" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,git,github,mysql,vscode,bash&amp;theme=dark&amp;perline=10" alt="Tech Stack Icons"/>
 </div>
 
 <br/>
 
-<!-- ENGINEERING STACK TABLE -->
 <div align="center">
 
 | Domain | Technology | Proficiency |
@@ -138,16 +136,15 @@ status: "Online · Building · Always learning 🚀"
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalpandey100&theme=transparent&bg_color=0d1117&border_color=0047ff&title_color=4D9FFF&text_color=c9d1e8&layout=compact&hide_border=false&langs_count=8&card_width=450" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalpandey100&amp;theme=transparent&amp;bg_color=0d1117&amp;border_color=0047ff&amp;title_color=4D9FFF&amp;text_color=c9d1e8&amp;layout=compact&amp;hide_border=false&amp;langs_count=8&amp;card_width=450" alt="Top Languages" width="48%"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vatsalpandey100&theme=transparent&bg_color=0d1117&border_color=0047ff&title_color=4D9FFF&text_color=c9d1e8&hide_border=false" alt="WakaTime Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vatsalpandey100&amp;theme=transparent&amp;bg_color=0d1117&amp;border_color=0047ff&amp;title_color=4D9FFF&amp;text_color=c9d1e8&amp;hide_border=false" alt="WakaTime Stats" width="48%"/>
 </div>
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalpandey100&theme=react-dark&bg_color=0d1117&color=4D9FFF&line=0047ff&point=4D9FFF&area=true&area_color=001a66&hide_border=false&border_color=0047ff&custom_title=Vatsal's%20Contribution%20Trajectory" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalpandey100&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=4D9FFF&amp;line=0047ff&amp;point=4D9FFF&amp;area=true&amp;area_color=001a66&amp;hide_border=false&amp;border_color=0047ff&amp;custom_title=Vatsal's%20Contribution%20Trajectory" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -159,7 +156,7 @@ status: "Online · Building · Always learning 🚀"
 <h2 align="center">🏆 Achievement Unlocked</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vatsalpandey100&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vatsalpandey100&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=6&amp;margin-h=6" width="100%" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -223,7 +220,7 @@ status: "Online · Building · Always learning 🚀"
 <!-- ═══════════════════════ MOTTO ═══════════════════════ -->
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Architecting%20with%20AI.%20Executing%20with%20discipline.&author=0xVatsal" alt="Motto" width="80%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;border=true&amp;quote=Architecting%20with%20AI.%20Executing%20with%20discipline.&amp;author=0xVatsal" alt="Motto" width="80%"/>
 </div>
 
 <br/>
@@ -251,28 +248,28 @@ status: "Online · Building · Always learning 🚀"
 <div align="center">
 
   <a href="https://github.com/vatsalpandey100">
-    <img src="https://img.shields.io/badge/GitHub-vatsalpandey100-0d1117?style=for-the-badge&logo=github&logoColor=white&color=0047ff&labelColor=0d1117" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-vatsalpandey100-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=0047ff&amp;labelColor=0d1117" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/vatsalpandey100">
-    <img src="https://img.shields.io/badge/LinkedIn-vatsalpandey100-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0047ff&labelColor=0d1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-vatsalpandey100-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=0047ff&amp;labelColor=0d1117" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://x.com/vatsalpandey100">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-vatsalpandey100-0d1117?style=for-the-badge&logo=x&logoColor=white&color=0047ff&labelColor=0d1117" alt="Twitter/X"/>
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-vatsalpandey100-0d1117?style=for-the-badge&amp;logo=x&amp;logoColor=white&amp;color=0047ff&amp;labelColor=0d1117" alt="Twitter/X"/>
   </a>
 
 <br/><br/>
 
   <a href="https://www.instagram.com/vatsalpandey100/">
-    <img src="https://img.shields.io/badge/Instagram-vatsalpandey100-0d1117?style=for-the-badge&logo=instagram&logoColor=white&color=0047ff&labelColor=0d1117" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-vatsalpandey100-0d1117?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;color=0047ff&amp;labelColor=0d1117" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="https://discord.com/users/vatsalpandey100">
-    <img src="https://img.shields.io/badge/Discord-vatsalpandey100-0d1117?style=for-the-badge&logo=discord&logoColor=white&color=0047ff&labelColor=0d1117" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-vatsalpandey100-0d1117?style=for-the-badge&amp;logo=discord&amp;logoColor=white&amp;color=0047ff&amp;labelColor=0d1117" alt="Discord"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=white&color=0047ff&labelColor=0d1117" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0d1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;color=0047ff&amp;labelColor=0d1117" alt="Portfolio"/>
 
 </div>
 
@@ -283,7 +280,7 @@ status: "Online · Building · Always learning 🚀"
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047ff,50:001f6b,80:0a0f2c,100:0d1117&height=140&section=footer&text=Engineering%20the%20Future%2C%20One%20Commit%20at%20a%20Time%20%F0%9F%9A%80&fontSize=16&fontColor=6e9fff&fontAlignY=55&fontAlign=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0047ff,50:001f6b,80:0a0f2c,100:0d1117&amp;height=140&amp;section=footer&amp;text=Engineering%20the%20Future%2C%20One%20Commit%20at%20a%20Time%20%F0%9F%9A%80&amp;fontSize=16&amp;fontColor=6e9fff&amp;fontAlignY=55&amp;fontAlign=50&amp;animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
